@@ -1,0 +1,17 @@
+C:\Users\dmitr\source\repos\BookOfRecipe\Migrator\bin\Debug\net8.0\Migrator.deps.json
+C:\Users\dmitr\source\repos\BookOfRecipe\Migrator\bin\Debug\net8.0\Migrator.runtimeconfig.json
+C:\Users\dmitr\source\repos\BookOfRecipe\Migrator\bin\Debug\net8.0\Migrator.dll
+C:\Users\dmitr\source\repos\BookOfRecipe\Migrator\bin\Debug\net8.0\Migrator.pdb
+C:\Users\dmitr\source\repos\BookOfRecipe\Migrator\obj\Debug\net8.0\Migrator.csproj.AssemblyReference.cache
+C:\Users\dmitr\source\repos\BookOfRecipe\Migrator\obj\Debug\net8.0\Migrator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\source\repos\BookOfRecipe\Migrator\obj\Debug\net8.0\Migrator.AssemblyInfoInputs.cache
+C:\Users\dmitr\source\repos\BookOfRecipe\Migrator\obj\Debug\net8.0\Migrator.AssemblyInfo.cs
+C:\Users\dmitr\source\repos\BookOfRecipe\Migrator\obj\Debug\net8.0\Migrator.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\BookOfRecipe\Migrator\obj\Debug\net8.0\Migrator.dll
+C:\Users\dmitr\source\repos\BookOfRecipe\Migrator\obj\Debug\net8.0\refint\Migrator.dll
+C:\Users\dmitr\source\repos\BookOfRecipe\Migrator\obj\Debug\net8.0\Migrator.pdb
+C:\Users\dmitr\source\repos\BookOfRecipe\Migrator\obj\Debug\net8.0\Migrator.genruntimeconfig.cache
+C:\Users\dmitr\source\repos\BookOfRecipe\Migrator\obj\Debug\net8.0\ref\Migrator.dll
+C:\Users\dmitr\source\repos\BookOfRecipe\Migrator\bin\Debug\net8.0\Domain.dll
+C:\Users\dmitr\source\repos\BookOfRecipe\Migrator\bin\Debug\net8.0\Domain.pdb
+C:\Users\dmitr\source\repos\BookOfRecipe\Migrator\obj\Debug\net8.0\Migrator.csproj.CopyComplete
