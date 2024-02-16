@@ -26,9 +26,9 @@ namespace BookOfRecipe
     		builder.Services.AddBlazorWebViewDeveloperTools();
     		builder.Logging.AddDebug();
             builder.Services.AddScoped<Context>();
-            builder.Services.AddScoped<IRepository<RecipeDTO> >();
-            builder.Services.AddScoped<IRepository<IngredientDTO> >();
-            builder.Services.AddScoped<IRepository<TopingDTO> >();
+            builder.Services.AddScoped<IRepository<RecipeDTO>,RecipeRepository >();
+            builder.Services.AddScoped<IRepository<IngredientDTO>,IngredientRepository >();
+            
 #endif
 
             return builder.Build();

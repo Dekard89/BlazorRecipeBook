@@ -15,8 +15,7 @@ namespace Domain
 
         public DbSet<IngredientDTO> ingredients { get; set; }
 
-        public DbSet<TopingDTO> Topings { get; set; }
-
+     
         public Context()
         {
                 

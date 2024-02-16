@@ -17,6 +17,6 @@ namespace Domain.Entitys
 
         public string Description { get; set; }
         public List<IngredientDTO> Ingredients { get; set; } = new();
-        public List<TopingDTO> Topings { get; set; } = new();
+       
     }
 }
