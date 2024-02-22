@@ -1,0 +1,18 @@
+﻿
+
+
+@inject IRepository<RecipeDTO> _repository;
+@page "/editRecipe/{RecipeId}"
+
+
+@code {
+    [Parameter] public int RecipeId { get; set; }
+    private RecipeVM _recipe;
+
+
+    protected override void OnInitialized()
+    {
+       _recipe =new RecipeVM( _repository.GetById(RecipeId));
+        
+    }
+}
